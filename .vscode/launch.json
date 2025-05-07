@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open contact.html",
+            "file": "c:\\Users\\vale-dani\\Desktop\\DANIEL\\programacion\\apps 1 sitio web colaborativo\\exercise-collaborative-html-website-grupoApps1\\website\\templates\\contact.html"
+        }
+    ]
+}
