@@ -1,4 +1,8 @@
-body{
-    background: #BDBDBD;
-}
 
+
+form {
+  margin: 0 auto;
+  max-width: 500px;
+  min-width: 300px;
+  width: 60vw;
+}
